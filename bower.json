@@ -1,0 +1,22 @@
+{
+  "name": "aimlang.org",
+  "version": "0.0.1",
+  "private": true,
+  "homepage": "https://aimlang.org",
+  "authors": [
+    "Anton Batiaev <anton@batiaev.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.*",
+    "bootstrap": "~3.3.7",
+    "fontawesome": "~4.7.0"
+  }
+}
