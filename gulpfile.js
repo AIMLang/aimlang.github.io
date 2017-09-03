@@ -34,7 +34,7 @@ var path = {
         css: [
             'bower_components/bootstrap/dist/css/bootstrap.min.css',
             'bower_components/fontawesome/css/font-awesome.min.css',
-            'bower_components/animate.css/animate.min.css'
+            'src/css/cover.css'
         ],
         fontawesome: 'bower_components/fontawesome/fonts/*'
     },
@@ -52,7 +52,6 @@ var config = {
     server: {
         baseDir: "./build"
     },
-    tunnel: true,
     host: 'localhost',
     port: 9000,
     logPrefix: "batiaev"
